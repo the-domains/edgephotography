@@ -1,7 +1,7 @@
 name: EDGEPhotography
 favicon: null
 layout_spectrum: 0.25429236073978245
-typography_spectrum: 0.7240248005837202
+typography_spectrum: 0.88482
 title: EDGE Photography
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#020202'
+    - '#7a6761'
+    - '#e9e9eb'
+    - '#b48484'
+    - '#b6c7d8'
   brandStrength: 0.9838722432032228
   lightness: 0.4850468225777149
   saturation: 0.5269474522210658
